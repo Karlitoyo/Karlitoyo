@@ -20,12 +20,14 @@
 <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Karlitoyo&layout=compact />
 </a>
 </p>
-
+<hr>
 ## Skills -
-* React
-* React Native
-* Django
-* SQL
-* Solidity
-* Nest.js
-* Next.js
+<p align="center" width="100%">
+React :atom_symbol:
+React Native :iphone:
+Django :computer:
+SQL :yellow_circle:
+Solidity :large_blue_circle:
+Nest.js :brown_circle:
+Next.js :green_circle:
+</p>
