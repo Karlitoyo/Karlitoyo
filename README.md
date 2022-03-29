@@ -20,3 +20,12 @@
 <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Karlitoyo&layout=compact />
 </a>
 </p>
+
+## Skills -
+* React
+* React Native
+* Django
+* SQL
+* Solidity
+* Nest.js
+* Next.js
