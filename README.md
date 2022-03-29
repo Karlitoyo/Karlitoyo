@@ -1,4 +1,4 @@
-### Welcome to my Github page! 👋
+## Welcome to Karl's Github page! 👋
 
 - 🔭 I’m currently working on OCR engine website
 - 🌱 I’m currently learning Solidity
@@ -14,14 +14,18 @@
 <img align="center" src=https://github-readme-stats.vercel.app/api?username=Karlitoyo&show_icons=true&theme=radical />
 </a>
  </p>
+ 
 <hr>
+
 <p align="center" width="100%">
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Karlitoyo&layout=compact />
 </a>
 </p>
+
 <hr>
-## Skills -
+
+### Skills
 <p align="center" width="100%">
 React :atom_symbol:
 React Native :iphone:
