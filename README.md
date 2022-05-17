@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Solidity
 - 💬 Ask me about anything!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/karl-timmins/)
-- 😄 Pronouns: thou/thee
+- 😄 Pronouns: thee/thou
 - ⚡ Fun fact: I'm Irish
 
 <p align="center" width="100%">
